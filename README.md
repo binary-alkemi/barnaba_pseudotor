@@ -35,7 +35,7 @@ Required packages can be installed using `pip`, e.g.:
 Installation (if you want RNA pseudotorsions !!!)
 --------------------------------------------------
 
-  git clone https://github.com/mandar5335/barnaba_pseudotor
+  git clone https://github.com/binary-alkemi/barnaba_pseudotor
 
 then move to the barnaba directory and run the command
 
